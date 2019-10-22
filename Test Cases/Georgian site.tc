@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Georgian site</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5f0b0f7-2436-4a31-ae5c-a98877773707</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3109b3db-6324-4799-bd3a-3be7ae22cc2f</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea59558e-a42e-4955-841a-17e3d4770b23</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0cab335b-1c62-4de9-b4a2-83f866d071d1</id>
+      <masked>false</masked>
+      <name>Org</name>
+   </variable>
+</TestCaseEntity>
